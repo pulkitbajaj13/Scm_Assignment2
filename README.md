@@ -66,7 +66,7 @@ Here is a simple HTML & CSS snippet from the project:
 ##📜 License
 This project is licensed under MIT License.
 👥 Team & Contributors
-•	Pulkit Bajaj
+• Pulkit Bajaj
 • Siddhant Bhatia
 
 
